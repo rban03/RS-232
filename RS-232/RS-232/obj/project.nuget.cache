@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NtcokUaWg8wd8NVasddf1ISkQJvfeWx+1Bd2Tr7j7cf7gh16CkPZkoFtPMEpgMU3jrAVonzuUIBOgRBFcEKm/A==",
+  "success": true,
+  "projectFilePath": "C:\\C#_project\\RS-232\\RS-232\\RS-232.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renat\\.nuget\\packages\\materialskin.2\\2.3.1\\materialskin.2.2.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
